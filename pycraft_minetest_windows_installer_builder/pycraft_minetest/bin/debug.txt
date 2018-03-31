@@ -1,0 +1,539 @@
+
+
+-------------
+  Separator
+-------------
+
+2017-09-17 23:55:48: WARNING[Main]: BanManager: creating C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd\ipban.txt
+2017-09-17 23:55:48: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-17 23:55:48: WARNING[Main]: /!\ You are using old player file backend. This backend is deprecated and will be removed in next release /!\
+2017-09-17 23:55:48: WARNING[Main]: Switching to SQLite3 or PostgreSQL is advised, please read http://wiki.minetest.net/Database_backends.
+2017-09-17 23:55:48: ACTION[Main]:         .__               __                   __   
+2017-09-17 23:55:48: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-17 23:55:48: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-17 23:55:48: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-17 23:55:48: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-17 23:55:48: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-17 23:55:48: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-17 23:55:48: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:53364.
+2017-09-17 23:55:49: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-17 23:55:49: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-17 23:58:04: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-17 23:58:05: ACTION[Main]:         .__               __                   __   
+2017-09-17 23:58:05: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-17 23:58:05: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-17 23:58:05: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-17 23:58:05: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-17 23:58:05: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-17 23:58:05: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-17 23:58:05: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:59694.
+2017-09-17 23:58:07: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-17 23:58:07: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-17 23:58:07: ACTION[Server]: Hello, player singleplayer
+2017-09-18 00:00:20: ACTION[Server]: singleplayer granted (server, shout, fly, password, bring, kick, teleport, ban, noclip, home, debug, privs, fast, basic_privs, zoom, give, protection_bypass, rollback, settime, interact) privileges to singleplayer
+2017-09-18 00:18:38: ACTION[Server]: RJM socket client connected
+2017-09-18 00:18:38: ACTION[Server]: RJM socket client disconnected
+2017-09-18 00:18:52: ACTION[Main]: RJM socket clients disconnected
+
+
+-------------
+  Separator
+-------------
+
+2017-09-18 00:43:57: [Main]: Automatically selecting world at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-18 00:44:12: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 00:44:12: ACTION[Main]:         .__               __                   __   
+2017-09-18 00:44:12: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 00:44:12: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 00:44:12: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 00:44:12: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 00:44:12: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 00:44:12: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-18 00:44:12: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:52542.
+2017-09-18 00:44:12: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 00:44:12: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 00:44:12: ACTION[Server]: Hello, player singleplayer
+2017-09-18 00:46:01: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 00:47:13: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 00:47:13: ACTION[Main]:         .__               __                   __   
+2017-09-18 00:47:13: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 00:47:13: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 00:47:13: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 00:47:13: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 00:47:13: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 00:47:13: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-18 00:47:13: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:63199.
+2017-09-18 00:47:16: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 00:47:16: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 00:47:16: ACTION[Server]: Hello, player singleplayer
+2017-09-18 00:48:13: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 00:48:39: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 00:48:39: ACTION[Main]:         .__               __                   __   
+2017-09-18 00:48:39: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 00:48:39: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 00:48:39: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 00:48:39: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 00:48:39: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 00:48:39: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-18 00:48:39: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:60933.
+2017-09-18 00:48:41: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 00:48:41: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 00:48:41: ACTION[Server]: Hello, player singleplayer
+2017-09-18 00:49:03: ACTION[Server]: RJM socket client connected
+2017-09-18 00:49:16: ACTION[Server]: RJM socket client disconnected
+2017-09-18 00:49:21: ACTION[Server]: RJM socket client connected
+2017-09-18 00:49:55: ACTION[Server]: RJM socket client disconnected
+2017-09-18 00:50:04: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 00:50:22: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 00:50:22: ACTION[Main]:         .__               __                   __   
+2017-09-18 00:50:22: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 00:50:22: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 00:50:22: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 00:50:22: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 00:50:22: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 00:50:22: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-18 00:50:22: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:63546.
+2017-09-18 00:50:24: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 00:50:24: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 00:50:24: ACTION[Server]: Hello, player singleplayer
+2017-09-18 00:50:55: ACTION[Main]: RJM socket clients disconnected
+
+
+-------------
+  Separator
+-------------
+
+2017-09-18 13:57:02: [Main]: Automatically selecting world at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-18 13:57:04: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 13:57:04: ACTION[Main]:         .__               __                   __   
+2017-09-18 13:57:04: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 13:57:04: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 13:57:04: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 13:57:04: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 13:57:04: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 13:57:04: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\dfsd]
+2017-09-18 13:57:04: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:55141.
+2017-09-18 13:57:05: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 13:57:05: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 13:57:05: ACTION[Server]: Hello, player singleplayer
+2017-09-18 13:57:11: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 13:57:22: WARNING[Main]: BanManager: creating C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asdf\ipban.txt
+2017-09-18 13:57:22: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 13:57:22: WARNING[Main]: /!\ You are using old player file backend. This backend is deprecated and will be removed in next release /!\
+2017-09-18 13:57:22: WARNING[Main]: Switching to SQLite3 or PostgreSQL is advised, please read http://wiki.minetest.net/Database_backends.
+2017-09-18 13:57:22: ACTION[Main]:         .__               __                   __   
+2017-09-18 13:57:22: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 13:57:22: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 13:57:22: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 13:57:22: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 13:57:22: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 13:57:22: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asdf]
+2017-09-18 13:57:22: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:60711.
+2017-09-18 13:57:24: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 13:57:24: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 13:57:24: ACTION[Server]: Hello, player singleplayer
+2017-09-18 13:57:30: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 13:57:35: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 13:57:35: ACTION[Main]:         .__               __                   __   
+2017-09-18 13:57:35: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 13:57:35: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 13:57:35: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 13:57:35: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 13:57:35: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 13:57:35: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asdf]
+2017-09-18 13:57:35: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:60294.
+2017-09-18 13:57:38: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 13:57:38: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 13:57:38: ACTION[Server]: Hello, player singleplayer
+2017-09-18 13:57:39: ACTION[Server]: singleplayer digs default:pine_tree at (0,11,4)
+2017-09-18 13:57:39: ACTION[Server]: singleplayer digs default:pine_tree at (0,11,9)
+2017-09-18 13:57:40: ACTION[Server]: singleplayer digs default:pine_tree at (0,10,4)
+2017-09-18 13:57:40: ACTION[Server]: singleplayer digs default:pine_tree at (1,11,0)
+2017-09-18 13:57:41: ACTION[Server]: singleplayer digs default:pine_tree at (1,10,0)
+2017-09-18 13:58:10: ACTION[Server]: singleplayer digs default:dirt_with_snow at (7,9,11)
+2017-09-18 13:58:11: ACTION[Server]: singleplayer digs default:pine_tree at (5,10,8)
+2017-09-18 13:58:11: ACTION[Server]: singleplayer digs default:dirt_with_snow at (6,9,10)
+2017-09-18 13:58:11: ACTION[Server]: singleplayer digs default:dirt_with_snow at (6,9,11)
+2017-09-18 13:58:11: ACTION[Server]: singleplayer digs default:dirt_with_snow at (6,9,12)
+2017-09-18 13:58:12: ACTION[Server]: singleplayer digs default:snow at (6,10,5)
+2017-09-18 13:58:13: ACTION[Server]: singleplayer digs default:dirt_with_snow at (6,9,5)
+2017-09-18 13:58:13: ACTION[Server]: singleplayer digs default:dirt_with_snow at (7,9,5)
+2017-09-18 13:58:13: ACTION[Server]: singleplayer digs default:dirt_with_snow at (7,9,6)
+2017-09-18 13:59:11: ACTION[Server]: RJM socket client connected
+2017-09-18 13:59:24: ACTION[Server]: singleplayer granted (server, shout, fly, password, bring, kick, teleport, ban, noclip, home, debug, privs, fast, basic_privs, zoom, give, protection_bypass, rollback, settime, interact) privileges to singleplayer
+2017-09-18 13:59:43: ACTION[Server]: singleplayer digs wool:grey at (15,36,14)
+2017-09-18 13:59:43: ACTION[Server]: singleplayer digs wool:magenta at (15,36,14)
+2017-09-18 13:59:44: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:44: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:44: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:45: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:45: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:45: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:46: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:46: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:49: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:50: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 13:59:50: ACTION[Server]: singleplayer digs wool:blue at (15,36,14)
+2017-09-18 14:00:14: ACTION[Server]: singleplayer digs wool:orange at (-8,35,32)
+2017-09-18 14:00:14: ACTION[Server]: singleplayer digs wool:pink at (-8,34,32)
+2017-09-18 14:00:15: ACTION[Server]: singleplayer digs wool:blue at (-8,34,32)
+2017-09-18 14:00:15: ACTION[Server]: singleplayer digs wool:violet at (-8,34,32)
+2017-09-18 14:00:15: ACTION[Server]: singleplayer digs wool:yellow at (-8,34,32)
+2017-09-18 14:03:40: ACTION[Main]: RJM socket clients disconnected
+
+
+-------------
+  Separator
+-------------
+
+2017-09-18 14:04:18: [Main]: Automatically selecting world at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asdf]
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_big_red" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_chicken" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_clownfish" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_cow" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_creeper" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_deer" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_dm" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_fish_blue_white" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_gull" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_rat" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_sheep" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_vombie" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "animal_wolf" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_archer" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_bear" has unsatisfied dependencies:  "mob_environments" "mobf" "animalmaterials"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_ghost" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_guard" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_miner" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf" "mobf_settings"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_npc" has unsatisfied dependencies:  "utils" "mob_environments" "quest_engine" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_oerkki" has unsatisfied dependencies:  "mob_environments" "animalmaterials" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_ostrich" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_shark" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_slime" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:04:32: ERROR[Main]: mod "mob_warthog" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:04:32: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 14:04:32: ACTION[Main]:         .__               __                   __   
+2017-09-18 14:04:32: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 14:04:32: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 14:04:32: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 14:04:32: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 14:04:32: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 14:04:32: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asdf]
+2017-09-18 14:04:32: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:50121.
+2017-09-18 14:04:36: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 14:04:36: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 14:04:36: ACTION[Server]: Hello, player singleplayer
+2017-09-18 14:04:37: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-18 14:04:37: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-18 14:04:37: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-18 14:04:37: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-18 14:04:37: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-18 14:05:07: WARNING[Server]: Assignment to undeclared global "totalnodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:259.
+2017-09-18 14:05:20: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 14:05:32: WARNING[Main]: BanManager: creating C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd\ipban.txt
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_big_red" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_chicken" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_clownfish" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_cow" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_creeper" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_deer" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_dm" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_fish_blue_white" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_gull" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_rat" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_sheep" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_vombie" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "animal_wolf" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_archer" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_bear" has unsatisfied dependencies:  "mob_environments" "mobf" "animalmaterials"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_ghost" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_guard" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_miner" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf" "mobf_settings"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_npc" has unsatisfied dependencies:  "utils" "mob_environments" "quest_engine" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_oerkki" has unsatisfied dependencies:  "mob_environments" "animalmaterials" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_ostrich" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_shark" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_slime" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:05:32: ERROR[Main]: mod "mob_warthog" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:05:32: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 14:05:32: WARNING[Main]: /!\ You are using old player file backend. This backend is deprecated and will be removed in next release /!\
+2017-09-18 14:05:32: WARNING[Main]: Switching to SQLite3 or PostgreSQL is advised, please read http://wiki.minetest.net/Database_backends.
+2017-09-18 14:05:32: ACTION[Main]:         .__               __                   __   
+2017-09-18 14:05:32: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 14:05:32: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 14:05:32: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 14:05:32: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 14:05:32: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 14:05:32: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd]
+2017-09-18 14:05:32: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:50368.
+2017-09-18 14:05:38: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 14:05:38: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 14:05:38: ACTION[Server]: Hello, player singleplayer
+2017-09-18 14:05:38: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-18 14:05:38: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-18 14:05:38: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-18 14:05:38: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-18 14:05:38: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-18 14:05:43: ACTION[Server]: singleplayer digs default:snowblock at (-2,9,12)
+2017-09-18 14:05:43: ACTION[Server]: singleplayer digs default:snowblock at (-2,9,13)
+2017-09-18 14:05:44: ACTION[Server]: singleplayer digs default:snowblock at (-3,9,13)
+2017-09-18 14:05:44: ACTION[Server]: singleplayer digs default:snowblock at (-3,9,14)
+2017-09-18 14:05:44: ACTION[Server]: singleplayer digs default:snowblock at (-3,8,14)
+2017-09-18 14:05:44: ACTION[Server]: singleplayer digs default:snowblock at (-4,8,14)
+2017-09-18 14:05:44: ACTION[Server]: singleplayer digs default:snowblock at (-4,8,15)
+2017-09-18 14:05:45: ACTION[Server]: singleplayer digs default:snowblock at (-4,9,14)
+2017-09-18 14:05:45: ACTION[Server]: singleplayer digs default:snowblock at (-4,9,15)
+2017-09-18 14:05:45: ACTION[Server]: singleplayer digs default:snowblock at (-4,8,16)
+2017-09-18 14:05:45: ACTION[Server]: singleplayer digs default:snowblock at (-2,9,14)
+2017-09-18 14:05:46: ACTION[Server]: singleplayer digs default:snowblock at (-1,9,15)
+2017-09-18 14:05:46: ACTION[Server]: singleplayer digs default:snowblock at (-2,8,16)
+2017-09-18 14:05:46: ACTION[Server]: singleplayer digs default:snowblock at (-2,8,17)
+2017-09-18 14:05:46: ACTION[Server]: singleplayer digs default:snowblock at (-3,8,17)
+2017-09-18 14:05:47: ACTION[Server]: singleplayer digs default:snowblock at (-3,7,17)
+2017-09-18 14:05:47: ACTION[Server]: singleplayer digs default:snowblock at (-3,8,18)
+2017-09-18 14:05:47: ACTION[Server]: singleplayer digs default:snowblock at (-4,8,18)
+2017-09-18 14:05:48: ACTION[Server]: singleplayer digs default:snowblock at (-2,8,18)
+2017-09-18 14:05:48: ACTION[Server]: singleplayer digs default:snowblock at (-1,8,18)
+2017-09-18 14:05:48: ACTION[Server]: singleplayer digs default:snowblock at (-1,8,19)
+2017-09-18 14:05:48: ACTION[Server]: singleplayer digs default:snowblock at (-2,8,19)
+2017-09-18 14:05:49: ACTION[Server]: singleplayer digs default:snowblock at (-1,8,20)
+2017-09-18 14:05:49: ACTION[Server]: singleplayer digs default:snowblock at (-2,7,22)
+2017-09-18 14:05:49: ACTION[Server]: singleplayer digs default:snowblock at (-2,7,23)
+2017-09-18 14:05:49: ACTION[Server]: singleplayer digs default:snowblock at (-2,7,24)
+2017-09-18 14:05:50: ACTION[Server]: singleplayer digs default:snowblock at (-1,7,24)
+2017-09-18 14:05:50: ACTION[Server]: singleplayer digs default:snowblock at (-1,7,25)
+2017-09-18 14:05:50: ACTION[Server]: singleplayer digs default:snowblock at (-1,6,26)
+2017-09-18 14:05:50: ACTION[Server]: singleplayer digs default:snowblock at (-1,6,27)
+2017-09-18 14:05:50: ACTION[Server]: singleplayer digs default:snowblock at (-2,6,27)
+2017-09-18 14:05:51: ACTION[Server]: singleplayer digs default:snowblock at (-2,6,28)
+2017-09-18 14:05:51: ACTION[Server]: singleplayer digs default:snowblock at (-2,5,28)
+2017-09-18 14:05:51: ACTION[Server]: singleplayer digs default:snowblock at (-3,5,28)
+2017-09-18 14:05:51: ACTION[Server]: singleplayer digs default:snowblock at (-2,5,27)
+2017-09-18 14:05:51: ACTION[Server]: singleplayer digs default:snowblock at (-3,4,28)
+2017-09-18 14:05:52: ACTION[Server]: singleplayer digs default:snowblock at (-2,5,29)
+2017-09-18 14:05:52: ACTION[Server]: singleplayer digs default:snowblock at (0,6,28)
+2017-09-18 14:05:53: ACTION[Server]: singleplayer digs default:snowblock at (1,6,28)
+2017-09-18 14:05:53: ACTION[Server]: singleplayer digs default:snowblock at (1,6,29)
+2017-09-18 14:05:53: ACTION[Server]: singleplayer digs default:snowblock at (1,6,30)
+2017-09-18 14:05:53: ACTION[Server]: singleplayer digs default:snowblock at (1,5,31)
+2017-09-18 14:05:53: ACTION[Server]: singleplayer digs default:snowblock at (1,5,32)
+2017-09-18 14:05:54: ACTION[Server]: singleplayer digs default:snowblock at (0,5,33)
+2017-09-18 14:05:54: ACTION[Server]: singleplayer digs default:snowblock at (-1,5,32)
+2017-09-18 14:05:54: WARNING[Server]: Assignment to undeclared global "totalnodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:259.
+2017-09-18 14:07:24: ACTION[Main]: RJM socket clients disconnected
+
+
+-------------
+  Separator
+-------------
+
+2017-09-18 14:07:54: WARNING[Main]: BanManager: creating C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd\ipban.txt
+2017-09-18 14:07:54: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 14:07:54: WARNING[Main]: /!\ You are using old player file backend. This backend is deprecated and will be removed in next release /!\
+2017-09-18 14:07:54: WARNING[Main]: Switching to SQLite3 or PostgreSQL is advised, please read http://wiki.minetest.net/Database_backends.
+2017-09-18 14:07:54: ACTION[Main]:         .__               __                   __   
+2017-09-18 14:07:54: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 14:07:54: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 14:07:54: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 14:07:54: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 14:07:54: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 14:07:54: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd]
+2017-09-18 14:07:54: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:54662.
+2017-09-18 14:07:55: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 14:07:55: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_big_red" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_chicken" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_clownfish" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_cow" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_creeper" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_deer" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_dm" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_fish_blue_white" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_gull" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_rat" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_sheep" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_vombie" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "animal_wolf" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_archer" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_bear" has unsatisfied dependencies:  "mob_environments" "mobf" "animalmaterials"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_ghost" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_guard" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_miner" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf" "mobf_settings"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_npc" has unsatisfied dependencies:  "utils" "mob_environments" "quest_engine" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_oerkki" has unsatisfied dependencies:  "mob_environments" "animalmaterials" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_ostrich" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_shark" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_slime" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:08:16: ERROR[Main]: mod "mob_warthog" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:08:16: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 14:08:17: ACTION[Main]:         .__               __                   __   
+2017-09-18 14:08:17: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 14:08:17: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 14:08:17: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 14:08:17: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 14:08:17: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 14:08:17: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd]
+2017-09-18 14:08:17: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:64985.
+2017-09-18 14:08:23: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 14:08:23: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 14:08:23: ACTION[Server]: Hello, player singleplayer
+2017-09-18 14:08:23: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-18 14:08:23: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-18 14:08:23: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-18 14:08:23: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-18 14:08:23: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-18 14:08:32: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_big_red" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_chicken" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_clownfish" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_cow" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_creeper" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_deer" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_dm" has unsatisfied dependencies:  "mobf" "mob_environments"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_fish_blue_white" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_gull" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_rat" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_sheep" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_vombie" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "animal_wolf" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_archer" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_bear" has unsatisfied dependencies:  "mob_environments" "mobf" "animalmaterials"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_ghost" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_guard" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_miner" has unsatisfied dependencies:  "animal_resources" "mob_environments" "mobf" "mobf_settings"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_npc" has unsatisfied dependencies:  "utils" "mob_environments" "quest_engine" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_oerkki" has unsatisfied dependencies:  "mob_environments" "animalmaterials" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_ostrich" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_shark" has unsatisfied dependencies:  "animalmaterials" "mob_environments" "mobf"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_slime" has unsatisfied dependencies:  "mobf" "animalmaterials" "mob_environments"
+2017-09-18 14:08:39: ERROR[Main]: mod "mob_warthog" has unsatisfied dependencies:  "mob_environments" "mobf"
+2017-09-18 14:08:39: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 14:08:39: ACTION[Main]:         .__               __                   __   
+2017-09-18 14:08:39: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 14:08:39: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 14:08:39: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 14:08:39: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 14:08:39: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 14:08:39: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd]
+2017-09-18 14:08:39: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:49852.
+2017-09-18 14:08:45: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 14:08:45: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 14:08:45: ACTION[Server]: Hello, player singleplayer
+2017-09-18 14:08:45: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-18 14:08:45: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-18 14:08:45: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-18 14:08:45: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-18 14:08:45: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-18 14:08:53: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 14:09:35: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 14:09:36: ACTION[Main]:         .__               __                   __   
+2017-09-18 14:09:36: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 14:09:36: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 14:09:36: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 14:09:36: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 14:09:36: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 14:09:36: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd]
+2017-09-18 14:09:36: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:54653.
+2017-09-18 14:09:41: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 14:09:41: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 14:09:41: ACTION[Server]: Hello, player singleplayer
+2017-09-18 14:09:41: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-18 14:09:41: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-18 14:09:41: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-18 14:09:41: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-18 14:09:41: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-18 14:09:59: ACTION[Server]: singleplayer granted (server, shout, fly, password, bring, kick, teleport, ban, home, noclip, weather, debug, privs, fast, basic_privs, zoom, give, protection_bypass, rollback, settime, interact) privileges to singleplayer
+2017-09-18 14:10:27: ACTION[Server]: RJM socket client connected
+2017-09-18 14:11:39: ACTION[Main]: RJM socket clients disconnected
+2017-09-18 14:13:23: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-18 14:13:23: ACTION[Main]:         .__               __                   __   
+2017-09-18 14:13:23: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-18 14:13:23: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-18 14:13:23: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-18 14:13:23: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-18 14:13:23: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-18 14:13:23: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\minetest-0.4.16-win32-msvc\bin\..\worlds\asd]
+2017-09-18 14:13:23: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:61086.
+2017-09-18 14:13:29: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-18 14:13:29: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-18 14:13:29: ACTION[Server]: Hello, player singleplayer
+2017-09-18 14:13:29: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-18 14:13:29: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-18 14:13:29: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-18 14:13:29: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-18 14:13:29: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...vc\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-18 18:18:28: ACTION[Main]: RJM socket clients disconnected
+
+
+-------------
+  Separator
+-------------
+
+2017-09-19 21:31:26: [Main]: Automatically selecting world at [C:\Users\Alessandro\Desktop\pycraft_minetest_windows_installer_builder\pycraft_minetest\bin\..\worlds\asd]
+2017-09-19 21:31:50: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-19 21:31:50: ACTION[Main]:         .__               __                   __   
+2017-09-19 21:31:50: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-19 21:31:50: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-19 21:31:50: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-19 21:31:50: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-19 21:31:50: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-19 21:31:50: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\pycraft_minetest_windows_installer_builder\pycraft_minetest\bin\..\worlds\asd]
+2017-09-19 21:31:50: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:59961.
+2017-09-19 21:31:51: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-19 21:31:51: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-19 21:31:51: ACTION[Server]: Hello, player singleplayer
+2017-09-19 21:31:51: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-19 21:31:51: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-19 21:31:51: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-19 21:31:51: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-19 21:31:51: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-19 21:32:04: ACTION[Main]: RJM socket clients disconnected
+2017-09-19 21:32:30: WARNING[Main]: BanManager: creating C:\Users\Alessandro\Desktop\pycraft_minetest_windows_installer_builder\pycraft_minetest\bin\..\worlds\Pycraft\ipban.txt
+2017-09-19 21:32:30: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-19 21:32:31: WARNING[Main]: /!\ You are using old player file backend. This backend is deprecated and will be removed in next release /!\
+2017-09-19 21:32:31: WARNING[Main]: Switching to SQLite3 or PostgreSQL is advised, please read http://wiki.minetest.net/Database_backends.
+2017-09-19 21:32:31: ACTION[Main]:         .__               __                   __   
+2017-09-19 21:32:31: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-19 21:32:31: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-19 21:32:31: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-19 21:32:31: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-19 21:32:31: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-19 21:32:31: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\pycraft_minetest_windows_installer_builder\pycraft_minetest\bin\..\worlds\Pycraft]
+2017-09-19 21:32:31: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:51568.
+2017-09-19 21:32:34: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-19 21:32:34: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-19 21:32:34: ACTION[Server]: Hello, player singleplayer
+2017-09-19 21:32:34: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-19 21:32:34: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-19 21:32:34: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-19 21:32:34: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-19 21:32:34: WARNING[Server]: Assignment to undeclared global "totalnodes" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:259.
+2017-09-19 21:32:34: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-19 21:32:36: ACTION[Main]: RJM socket clients disconnected
+2017-09-19 21:32:48: WARNING[Main]: NodeDefManager: Ignoring CONTENT_IGNORE redefinition
+2017-09-19 21:32:49: ACTION[Main]:         .__               __                   __   
+2017-09-19 21:32:49: ACTION[Main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+2017-09-19 21:32:49: ACTION[Main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+2017-09-19 21:32:49: ACTION[Main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+2017-09-19 21:32:49: ACTION[Main]: |__|_|  /__|___|  /\___  >__|  \___  >____  > |__|  
+2017-09-19 21:32:49: ACTION[Main]:       \/        \/     \/          \/     \/        
+2017-09-19 21:32:49: ACTION[Main]: World at [C:\Users\Alessandro\Desktop\pycraft_minetest_windows_installer_builder\pycraft_minetest\bin\..\worlds\Pycraft]
+2017-09-19 21:32:49: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:63594.
+2017-09-19 21:32:52: ACTION[Server]: singleplayer [127.0.0.1] joins game. 
+2017-09-19 21:32:52: ACTION[Server]: singleplayer joins game. List of players: singleplayer
+2017-09-19 21:32:52: ACTION[Server]: Hello, player singleplayer
+2017-09-19 21:32:52: WARNING[Server]: Assignment to undeclared global "minp" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:394.
+2017-09-19 21:32:52: WARNING[Server]: Assignment to undeclared global "maxp" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:395.
+2017-09-19 21:32:52: WARNING[Server]: Assignment to undeclared global "nodes" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:244.
+2017-09-19 21:32:52: WARNING[Server]: Assignment to undeclared global "air_plus_ignore_under" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:398.
+2017-09-19 21:32:52: WARNING[Server]: Assignment to undeclared global "totalnodes" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:259.
+2017-09-19 21:32:52: WARNING[Server]: Assignment to undeclared global "desert_in_range" inside a function at ...st\bin\..\mods\MinetestAmbience-master\ambience\init.lua:448.
+2017-09-19 21:33:00: ACTION[Server]: singleplayer granted (server, shout, fly, password, bring, kick, teleport, ban, home, noclip, weather, debug, privs, fast, basic_privs, zoom, give, protection_bypass, rollback, settime, interact) privileges to singleplayer
+2017-09-19 21:33:37: ACTION[Main]: RJM socket clients disconnected
+
+
+-------------
+  Separator
+-------------
+
+2017-09-19 21:39:54: [Main]: Automatically selecting world at [C:\Users\Alessandro\Desktop\pycraft_minetest_windows_installer_builder\pycraft_minetest\bin\..\worlds\Pycraft]
